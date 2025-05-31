@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">@aoijs/aoi.canvas</h1>
+<h1 align="center">aoijs.canvas</h1>
 
 <div align="center">
 
