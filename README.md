@@ -1,18 +1,20 @@
 # aoi.canvas
 
-## Sobre a Package
+## About the Package
 
-**aoi.canvas** é uma biblioteca profissional desenvolvida para simplificar a utilização do **Canvas** em bots criados com **Aoi.js**.  
-Ela permite a criação e manipulação avançada de elementos gráficos, incluindo o registro de fontes externas, possibilitando a geração de imagens personalizadas e de alta qualidade diretamente a partir do seu bot.
+**aoi.canvas** is a professional library designed to simplify the use of **Canvas** in bots built with **Aoi.js**.  
+It enables advanced creation and manipulation of graphical elements, including support for external font registration, allowing you to generate high-quality, fully customized images directly from your bot.
 
 ---
 
-## Instalação
+## Installation
 
-Para instalar, execute o comando abaixo no Termux ou em qualquer ambiente que suporte Node.js:
+To install, run the command below in Termux or any environment that supports Node.js:
 
 ```bash
 npm install aoi.canvas
 ```
+
 ---
-> ⚠️ Certifique-se de que o **Node.js** e o gerenciador de pacotes **NPM** estejam corretamente instalados em seu sistema antes de continuar.
+
+> ⚠️ Make sure **Node.js** and the **NPM** package manager are properly installed on your system before proceeding.
