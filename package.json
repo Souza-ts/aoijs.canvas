@@ -1,44 +1,44 @@
 {
-    "name": "aoijs.canvas",
-    "version": "2.0.0",
-    "description": "aoijs.canvas - Create and edit images in aoi.js with ease.",
-    "main": "dist/index.js",
-    "keywords": [
-      "canvas",
-      "aoi",
-      "aoi.js",
-      "bdfd",
-      "dbd",
-      "dbd.js",
-      "dbd.ts",
-      "bdfd.js",
-      "@napi-rs/canvas",
-      "image",
-      "gif",
-      "aoi.gif",
-      "aoi.canvas",
-      "aoijs.canvas"
-    ],
-    "author": "lordex",
-    "homepage": "https://aoi.js.org/extensions/aoijs/aoicanvas",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/aoijs/aoi.canvas.git"
-    },
-    "license": "MIT",
-    "scripts": {
-      "test": "tsc && echo Done compiling! && node dist/__tests__",
-      "api-gen": "tsc && echo Done compiling! && node api-gen.js && echo API file generated/updated.",
-      "publish": "tsc && echo Done compiling! && node api-gen.js && echo API file generated/updated. && npm publish"
-    },
-    "dependencies": {
-        "@napi-rs/canvas": "^0.1.70",
-        "gif-encoder-2": "^1.0.5"
-      },
-      "devDependencies": {
-        "aoi.js": "^6.10.3",
-        "discord.js": "^14.19.2",
-        "gif-frames": "^1.0.1",
-        "typescript": "^5.8.3"
-      }
+  "name": "aoijs.canvas",
+  "version": "1.0.0",
+  "description": "aoijs.canvas - Create and edit images in aoi.js with ease.",
+  "main": "dist/index.js",
+  "keywords": [
+    "canvas",
+    "aoi",
+    "aoi.js",
+    "bdfd",
+    "dbd",
+    "dbd.js",
+    "dbd.ts",
+    "bdfd.js",
+    "@napi-rs/canvas",
+    "image",
+    "gif",
+    "aoi.gif",
+    "aoi.canvas",
+    "aoijs.canvas"
+  ],
+  "author": "lordex",
+  "homepage": "https://aoi.js.org/extensions/aoijs/aoicanvas",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aoijs/aoi.canvas.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "tsc && echo Done compiling! && node dist/__tests__",
+    "api-gen": "tsc && echo Done compiling! && node api-gen.js && echo API file generated/updated.",
+    "publish": "tsc && echo Done compiling! && node api-gen.js && echo API file generated/updated. && npm publish"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.49",
+    "gif-encoder-2": "^1.0.5",
+    "gif-frames": "^1.0.1"
+  },
+  "devDependencies": {
+    "aoi.js": "^6.7.1",
+    "discord.js": "^14.14.1",
+    "typescript": "^5.4.5"
+  }
 }
