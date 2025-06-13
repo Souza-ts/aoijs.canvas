@@ -9,8 +9,8 @@
 <div align="center">
 
 [![Discord Server](https://img.shields.io/discord/773352845738115102?color=5865F2&logo=discord&logoColor=white)](https://discord.com/invite/HMUfMXDQsV)
-[![NPM Downloads](https://img.shields.io/npm/dt/@aoijs/aoi.canvas.svg?maxAge=3600)](https://www.npmjs.com/package/aoijs.canvas)
-[![NPM Version](https://img.shields.io/npm/v/@aoijs/aoi.canvas.svg?maxAge=3600)](https://www.npmjs.com/package/aoijs.canvas)
+[![NPM Downloads](https://img.shields.io/npm/dt/@aoijs/aoijs.canvas.svg?maxAge=3600)](https://www.npmjs.com/package/aoijs.canvas)
+[![NPM Version](https://img.shields.io/npm/v/@aoijs/aoijs.canvas.svg?maxAge=3600)](https://www.npmjs.com/package/aoijs.canvas)
 
 </div>
 
